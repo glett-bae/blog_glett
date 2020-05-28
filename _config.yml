@@ -1,0 +1,26 @@
+title:              "Glett's"
+tagline:            "Eat out with Me!"
+email:              "baesya@gmail.com"
+description:        "'다이어트'는 정말로 다 포기해야만 가능할까?
+건강, 인연, 즐거움 어느 하나 포기할 수 없는 사람들을 위해서,
+'다이어트'라는 제한적인 이미지 이면의
+무궁무진한 '다이어트'에 대해 나누고자 합니다."
+author:             "배수연"
+baseurl:            "/"
+url:                "https://glett.kr"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
+
+# Social Profiles
+twitter_username:   twitter_username
+instagram_username: instagram_username
+facebook_username:  facebook_username
+linkedin_username:  linkedin_username
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-paginate
