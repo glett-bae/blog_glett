@@ -46,7 +46,7 @@ description: "'다이어트'란 스스로를 고립시켜야만 가능하다는 
 
 
 
-![하와이안피자](C:\Users\baegy\blog\img\posts\04\05.jpg)
+![하와이안피자](/img/posts/04/05.jpg)
 
 > 크래프트 한스(CRAFT HANS) 하와이안 피자
 
@@ -76,9 +76,7 @@ description: "'다이어트'란 스스로를 고립시켜야만 가능하다는 
 
 
 
-![핫소스와파마산치즈가루](C:\Users\baegy\blog\img\posts\04\055.jpg)
-
-> 크래프트 한스(CRAFT HANS) 하와이안 피자
+![핫소스와파마산치즈가루](C:/img/posts/04/055.jpg)
 
 매장에서 제공하는 파마산 치즈가루와 핫소스. 
 성분표를 보고, 아주 마음에 들어 듬뿍! 뿌려먹었던 소스이다.
@@ -88,7 +86,7 @@ description: "'다이어트'란 스스로를 고립시켜야만 가능하다는 
 
 
 
-![허니크림치즈크래커](C:\Users\baegy\blog\img\posts\04\06.jpg)
+![허니크림치즈크래커](/img/posts/04/06.jpg)
 
 > 크래프트 한스(CRAFT HANS) 허니 크림치즈 크래커
 
@@ -102,7 +100,7 @@ description: "'다이어트'란 스스로를 고립시켜야만 가능하다는 
 
 
 
-![리코타치즈샐러드](C:\Users\baegy\blog\img\posts\04\07.jpg)
+![리코타치즈샐러드](/img/posts/04/07.jpg)
 
 > 크래프트 한스(CRAFT HANS) 리코타 치즈 샐러드
 
@@ -126,7 +124,7 @@ description: "'다이어트'란 스스로를 고립시켜야만 가능하다는 
 
 
 
-![대구포믹스넛](C:\Users\baegy\blog\img\posts\04\08.jpg)
+![대구포믹스넛](/img/posts/04/08.jpg)
 
 > 크래프트 한스(CRAFT HANS) 대구포 & 믹스넛
 
@@ -147,6 +145,6 @@ description: "'다이어트'란 스스로를 고립시켜야만 가능하다는 
 
 
 
-![끝](C:\Users\baegy\blog\img\posts\04\09.jpg)
+![끝](/img/posts/04/09.jpg)
 
 > 깔끔하게 비워진 접시들...
