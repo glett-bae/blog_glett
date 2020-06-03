@@ -25,7 +25,7 @@ description: "'다이어트'란 스스로를 고립시켜야만 가능하다는 
 
 
 
-![그림1](C:\Users\baegy\blog\img\posts\04\main.jpg)
+![그림1](/img/posts/04/main.jpg)
 
 맥주가 너무나도 고팠던 어느 날, 수제 맥주 맛집 '크래프트 한스(CRAFT HANS)' 를 방문하였다.
 '크래프트 한스(CRAFT HANS)'는 수제 맥주를 즐길 수 있는 분위기 좋은 펍으로,
