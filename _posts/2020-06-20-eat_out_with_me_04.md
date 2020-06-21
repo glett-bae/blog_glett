@@ -44,7 +44,7 @@ Health & Beauty store의 선두주자답게,
 
 <br>
 
-![아임닭 닭가슴살 크런칩](/img/posts/06/01.jpg)
+![아임닭 닭가슴살 크런칩](/img/posts/06/01.JPG)
 
 ### BEST 1 '아임닭' 닭가슴살 크런칩, 구운갈릭맛
 
@@ -56,7 +56,7 @@ Health & Beauty store의 선두주자답게,
 
 <br>
 
-![d project 딜라이트 팝콘](/img/posts/06/02.jpg)
+![d project 딜라이트 팝콘](/img/posts/06/02.JPG)
 
 ### BEST 2 'D project' 딜라이트 팝콘
 
@@ -71,7 +71,7 @@ D project는 올리브영의 PB브랜드로 알려진 먹거리 브랜드이다.
 
 <br>
 
-![크리스탈 라이트 레몬에이드](/img/posts/06/03.jpg)
+![크리스탈 라이트 레몬에이드](/img/posts/06/03.JPG)
 
 ### BEST 3 '크리스탈 라이트' 티 3종 
 
@@ -85,7 +85,7 @@ D project는 올리브영의 PB브랜드로 알려진 먹거리 브랜드이다.
 
 <br>
 
-![소소한밤 곤약 떡볶이](/img/posts/06/04.jpg)
+![소소한밤 곤약 떡볶이](/img/posts/06/04.JPG)
 
 ### BEST 4 '소소생활' 소소한밤 곤약 떡볶이
 
@@ -127,7 +127,7 @@ D project는 올리브영의 PB브랜드로 알려진 먹거리 브랜드이다.
 
 <br>
 
-![델리황](/img/posts/06/05.jpg)
+![델리황](/img/posts/06/05.JPG)
 
 ### BEST 5 '바다소리' 델리황 버터맛
 
